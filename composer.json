@@ -1,5 +1,5 @@
 {
-  "name": "umbrellio/laravel-pg-extensions",
+  "name": "lojasmm-adrianopantaleao/laravel-pg-extensions",
   "type": "library",
   "description": "Extensions for Postgres Laravel",
   "minimum-stability": "stable",
